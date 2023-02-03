@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **ethical hacking**
 
-- 💬 Ask me about **anything about back end development**
+- 💬 Ask me about **back end development**
 
 - 📫 How to reach me **holekiago21@gmail.com**
 
